@@ -7,10 +7,7 @@
 /out-tsc
 
 # dependencies
-/app01/node_modules
-/app2/node_modules
-/app3/node_modules
-/app1/node_modules
+/node_modules
 
 # IDEs and editors
 /.idea
